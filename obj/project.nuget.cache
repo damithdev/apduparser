@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LF7SHu27e2qs+6s1VTaEoxPNBflr0TjMb0o8yMpWTwkRLtcO45DfmmweGvoeV0/5CeFK9Vw33vxOI1TGHgD9nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sendt\\dotnetcore\\apduparser\\apduparser\\apduparser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sendt\\.nuget\\packages\\bertlv.net\\2.0.3\\bertlv.net.2.0.3.nupkg.sha512",
+    "C:\\Users\\sendt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sendt\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sendt\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\sendt\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\sendt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\sendt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
